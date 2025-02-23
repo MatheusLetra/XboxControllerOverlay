@@ -27,10 +27,9 @@ python main.py
 
 ## 🎮 Funcionalidades
 
-- Exibição de botões pressionados (A, B, X, Y, L1, R1, Start, Select, D-Pad)
+- Exibição de botões pressionados (A, B, X, Y, L1, R1)
 - Representação dos gatilhos analógicos (L2, R2)
 - Indicação da posição dos analógicos esquerdo e direito
-- Fundo transparente para uso como overlay no OBS Studio
 
 ## 🏗️ Estrutura do Código
 
